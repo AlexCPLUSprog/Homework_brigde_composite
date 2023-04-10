@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework_brigde_composite", "Homework_brigde_composite\Homework_brigde_composite.vcxproj", "{DEEEE346-3ADF-4627-80DC-3348088751AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEEE346-3ADF-4627-80DC-3348088751AA}.Debug|x64.ActiveCfg = Debug|x64
+		{DEEEE346-3ADF-4627-80DC-3348088751AA}.Debug|x64.Build.0 = Debug|x64
+		{DEEEE346-3ADF-4627-80DC-3348088751AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEEEE346-3ADF-4627-80DC-3348088751AA}.Debug|x86.Build.0 = Debug|Win32
+		{DEEEE346-3ADF-4627-80DC-3348088751AA}.Release|x64.ActiveCfg = Release|x64
+		{DEEEE346-3ADF-4627-80DC-3348088751AA}.Release|x64.Build.0 = Release|x64
+		{DEEEE346-3ADF-4627-80DC-3348088751AA}.Release|x86.ActiveCfg = Release|Win32
+		{DEEEE346-3ADF-4627-80DC-3348088751AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D75D68A-61C0-48E3-B856-8D479989B418}
+	EndGlobalSection
+EndGlobal
